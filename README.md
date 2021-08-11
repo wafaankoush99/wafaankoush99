@@ -15,7 +15,7 @@
 
 - 📫 You can reach me via this Email: **wafadirawe@gmail.com**
 
-- 📄 To know about my experiences [check my CV](https://docs.google.com/document/d/1PW544aHwqooHY60ia8_BLAwo1TUfR0g-hg75zB_xkRI/edit?usp=sharing)(https://docs.google.com/document/d/1PW544aHwqooHY60ia8_BLAwo1TUfR0g-hg75zB_xkRI/edit?usp=sharing)
+- 📄 To know about my experiences [check my CV](https://docs.google.com/document/d/1PW544aHwqooHY60ia8_BLAwo1TUfR0g-hg75zB_xkRI/edit?usp=sharing)
 
 - ⚡ Fun fact **I like drawing and all types of arts**
 
