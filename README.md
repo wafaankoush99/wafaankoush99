@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **how to become a modern frontend developer**
 
-- 👨‍💻 All of my projects are available at [My Portfolio]()
-- 👨‍💻 All of my projects are available at [check my CV](https://portfolio-wafa.herokuapp.com/](https://portfolio-wafa.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [check my CV](https://portfolio-wafa.herokuapp.com/)
 
 
 - 💬 Ask me about **whatever you want**
