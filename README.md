@@ -5,12 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wafaankoush99" alt="wafaankoush99" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/wafa00296153" target="blank"><img src="https://img.shields.io/twitter/follow/wafa00296153?logo=twitter&style=for-the-badge" alt="wafa00296153" /></a> </p>
 
 - 🌱 I’m currently learning **how to become a modern frontend developer**
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-wafa.herokuapp.com/](https://portfolio-wafa.herokuapp.com/)
+- [check my CV](https://docs.google.com/document/d/1PW544aHwqooHY60ia8_BLAwo1TUfR0g-hg75zB_xkRI/edit?usp=sharing)
+
 
 - 💬 Ask me about **whatever you want**
 
