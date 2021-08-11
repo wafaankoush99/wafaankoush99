@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://twitter.com/wafa00296153" target="blank"><img src="https://img.shields.io/twitter/follow/wafa00296153?logo=twitter&style=for-the-badge" alt="wafa00296153" /></a> </p>
 
 - 🌱 I’m currently learning **how to become a modern frontend developer**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-wafa.herokuapp.com/](https://portfolio-wafa.herokuapp.com/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-wafa.herokuapp.com/](https://portfolio-wafa.herokuapp.com/)
 
 - 💬 Ask me about **whatever you want**
 
