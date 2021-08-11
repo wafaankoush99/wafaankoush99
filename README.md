@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 
 [![wafaankoush99's github stats](https://github-readme-stats.vercel.app/api?username=wafaankoush99&show_icons=true&theme=default)](https://github.com/wafaankoush99/)
