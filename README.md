@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/wafa00296153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wafa00296153" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wafaankoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafaankoush" height="30" width="40" /></a>
-<a href="https://fb.com/wafaa99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wafa99s" height="30" width="40" /></a>
-<a href="https://instagram.com/wafa.99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wafa.99s" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/wafaa99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wafa99s" height="30" width="40" /></a>
+<a href="https://instagram.com/wafa.99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wafa.99s" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
